@@ -1,0 +1,14 @@
+{
+    "name": "Suppliers",
+    "label": "Suppliers",
+    "alias": "suppliers",
+    "description": "manage all suppliers",
+    "keywords": ["suppliers"],
+    "priority": 0,
+    "providers": [
+        "Modules\\Suppliers\\Providers\\SuppliersServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
