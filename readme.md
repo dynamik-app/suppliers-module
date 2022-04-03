@@ -1,2 +1,2 @@
-# Base Module
-A boilerplate module for generating CRUD modules from.
+# Suppliers Module for Laravel v9.0+
+[![Latest Stable Version](http://poser.pugx.org/dynamik-app/suppliers-module/v)](https://packagist.org/packages/dynamik-app/suppliers-module) [![Total Downloads](http://poser.pugx.org/dynamik-app/suppliers-module/downloads)](https://packagist.org/packages/dynamik-app/suppliers-module) [![Latest Unstable Version](http://poser.pugx.org/dynamik-app/suppliers-module/v/unstable)](https://packagist.org/packages/dynamik-app/suppliers-module) [![License](http://poser.pugx.org/dynamik-app/suppliers-module/license)](https://packagist.org/packages/dynamik-app/suppliers-module) [![PHP Version Require](http://poser.pugx.org/dynamik-app/suppliers-module/require/php)](https://packagist.org/packages/dynamik-app/suppliers-module)
